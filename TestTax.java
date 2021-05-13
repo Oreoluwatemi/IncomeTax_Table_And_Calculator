@@ -1,16 +1,4 @@
-/*
-Project#2
-Course:ITC-5102 - Semester 1
-Last Name:Lawal
-First Name:Oreoluwa
-ID:N01452264
-Last Name:Shah
-First Name:Ashka  
-ID:N01414926
-Section:RNB
-This project represents my own work in accordance with Humber Academic Policy.
-Date:4/21/2021
-*/
+
 package Project2;
 
 import java.util.Scanner;
